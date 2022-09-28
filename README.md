@@ -7,3 +7,6 @@ Activity 1:
 
 Activity 2:  
 ![image](https://user-images.githubusercontent.com/22103819/192634731-c7632d80-821e-4240-b30a-c654011b270e.png)
+
+Activity 3:  
+![image](https://user-images.githubusercontent.com/22103819/192808423-f9f3e097-65f7-42da-803b-43c518cde328.png)
